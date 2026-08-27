@@ -1,5 +1,5 @@
 hl.on("hyprland.start", function ()
-  hl.exec_cmd("qs")
+  hl.exec_cmd("riverbar")
   hl.exec_cmd("awww-daemon")
   hl.exec_cmd("pypr")
   hl.exec_cmd("swaync")
