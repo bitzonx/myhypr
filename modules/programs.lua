@@ -1,8 +1,8 @@
 local programs = {}
 programs.wallSwitcher = "waypaper"
 programs.terminal = "kitty"
-programs.fileManager = "kitty -e spf"
-programs.musicPlayer = "kitty -e spotify_player"
+programs.fileManager = "kitty -e yazi"
+programs.musicPlayer = "flatpak run rocks.spotifast.Spotifast"
 programs.menu = "rofi -show drun"
-programs.browser = "qutebrowser"
+programs.browser = "zen"
 return programs

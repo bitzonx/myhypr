@@ -1,6 +1,6 @@
 hl.monitor({
-    output   = "HDMI-A-1",
-    mode     = "1920x1080@165.00",
+    output   = "desc:MAG InnoVision C27F300YW",
+    mode     = "1920x1080@300.00",
     position = "auto",
     scale    = "auto",
 })

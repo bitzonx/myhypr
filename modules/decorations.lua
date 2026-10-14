@@ -2,9 +2,9 @@
 hl.config({
     general = {
         gaps_in  = 6,
-        gaps_out = 8,
+        gaps_out = 12,
 
-        border_size = 1,
+        border_size = 0,
 
         col = {
             active_border   = { colors = {"rgba(136,192,208,0.90)", "rgba(129,161,193,0.90)"}, angle = 45 },
@@ -32,7 +32,7 @@ hl.config({
             enabled      = true,
             range        = 15,
             render_power = 2,
-            color        = 0x663b4252,
+            color        = 0x393939,
         },
 
         blur = {
